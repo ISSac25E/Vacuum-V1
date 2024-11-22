@@ -8,6 +8,11 @@ V1 was used primarily as a test platform.
 
 This project works off of an MQTT server. The MQTT server we used was Home Assistant (back when it was free and local).
 
+This project began simply to add wireless and smart features to a robot vacuum.
+While nowadays a smart vacuum cleaner can be found easily, they can still come at a higher price.
+
+This project gave an ordinary robot vacuum wireless control and status updates using homeassistant
+
 ### Note
 Core libraries and needed files can be found in Core branch
 
